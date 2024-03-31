@@ -1,5 +1,8 @@
 # MACHINE_LEARNING
 **diabetes prediction**
+
+dataset source: https://www.kaggle.com/datasets/alexteboul/diabetes-health-indicators-dataset 
+
 As Per the facts given by WHO(World Health Organization), there are about 422 million people worldwide who suffer from Diabetes, according to various studies done by WHO approximately 1.5 million deaths every year are directly related to diabetes. Indirectly Diabetes patients can have blindness, Kidney failures, heart attacks, stroke, etc. due to high sugar levels or imbalanced insulin levels. There are 2 types of diabetes: Type 1 Diabetes and Type 2 Diabetes. A common misconception might appear that Type 1 diabetes leads to Type 2 diabetes but both these types are different in nature. In reality, pre-diabetes can lead to either Type 1 Diabetes or Type 2 Diabetes.
 
 The dataset mentioned contains data that divides patients into 3 categories (0 = no Diabetes; 1 = Pre-Diabetic; 2 = Diabetic)
@@ -108,3 +111,8 @@ Income on a scale of 1-8
 8 = $75,000 or more
 
 **The predicted column is Diabetes_012**
+
+applied machine learning algorithms
+- decision tree
+- random forest
+- K-NN
