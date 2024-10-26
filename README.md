@@ -16,64 +16,64 @@ The Dataset contains 21 features along with 253679 entries which are analyzed to
 2 = diabetes
 
 2.	HighChol	
-0 = no high BP
-1 = high BP
+0 = no high cholesterol  
+1 = high cholesterol
 
-3.	CholCheck
-0 = No high cholesterol
-1 = High cholesterol	
+4.	CholCheck
+0 = if cholesterol hasn't been checked in the last 5 years
+1 = if cholesterol has been checked in the last 5 years	
 
-4.	BMI	
+5.	BMI	
 Contains numeric values
 
-5.	Smoker
+6.	Smoker
 If  a person has had at least 100 cigarettes in their life
 0 = (<=) 100
 1 = (>) 100 	
 
-6.	Stroke
+7.	Stroke
 0 = no stroke
 1 = has had a stroke	
 
-7.	HeartDiseaseorAttack
+8.	HeartDiseaseorAttack
 0 = no heart disease
 1 = has heart disease 	
 
-8.	PhysActivity
+9.	PhysActivity
 Physical activity in the past 30 days
 0 = no physical activity
 1 = physical exercising was done
 
-9.	Fruits
+10.	Fruits
 0 = consume no fruits in a day
 1 = consume (>=) 1
 
-10.	Veggies
+11.	Veggies
 0 = consume no vegetables in a day
 1 = consume (>=) 1
 
-11.	HvyAlcoholConsump
+12.	HvyAlcoholConsump
 Heavy Alcohol consumption = (>=)14 drinks for men or (>=)7 drinks for women/ per week 
 0 = if the above condition is False
 1 = if the above condition is True	
 
-12.	AnyHealthcare
+13.	AnyHealthcare
 0 = no insurance
 1= has insurance	
 
-13.	NoDocbcCost	
+14.	NoDocbcCost	
 Could not see a doctor because of financial issues in the past year
 0 = no 
 1 = yes
 
-14.	GenHlth
+15.	GenHlth
 1 = excellent 
 2 = very good 
 3 = good 
 4 = fair 
 5 = poor	
 
-15.	MentHlth
+16.	MentHlth
 This includes stress, depression, and problems with emotions, for how many days during the past 30 days was the patient’s mental health not good?
 -	This contains numerical values between 0-31	
 
